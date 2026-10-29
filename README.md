@@ -1,13 +1,11 @@
 # 🕒 Bell Tracker (Chrome Extension)
 
-https://github.com/RiceC-at-MasonHS/bell-tracker-extension/issues/9
-
 A lightweight, privacy-first Chrome Extension designed for teachers and administrative assistants that displays the active class bell period and a live countdown timer directly inside the extension icon badge area. 
 
 > [!TIP]
 > This project may soon be migrating to a public PowerSchool API endpoint as the source of truth for the daily clock-schedule.
 
-By pulling real-time schedules directly from your existing schedule session, this extension entirely eliminates the guesswork of 4-day rotating block schedules, unexpected pep rallies, mid-day adjustments, or emergency delay schedules.
+By pulling real-time schedules from a dedicated public API, this extension entirely eliminates the guesswork of 4-day rotating block schedules, unexpected pep rallies, mid-day adjustments, emergency delay schedules, etc...
 
 ![Screenshot of an alpha version of the extension working.](demo-img.png)
 
